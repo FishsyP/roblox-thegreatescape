@@ -1,7 +1,7 @@
 Control Panel
 =============
 
-.. image:: ./images/allbuttons.png
+.. image:: images/allbuttons.PNG
 
 Screenshot taken on 30/7/2019.
 
@@ -15,7 +15,7 @@ Buttons
 Bottom Row
 ----------
 
-.. image:: ./images/bottom.png
+.. image:: images/bottom.PNG
     :width: 75%
 
 These buttons control the room directly.
@@ -76,7 +76,7 @@ This is used if a round is cleared.
 Beam Controls
 -------------
 
-.. image:: ./images/beams.png
+.. image:: images/beams.PNG
     :width: 75%
 
 These buttons control the movement of the beams.
