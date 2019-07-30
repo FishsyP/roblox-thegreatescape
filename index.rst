@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The Great Escape
-================
+The Great Escape Documentation
+==============================
 
 This is the internal documentation for the gameshow places developed by
 the Ultimate Gameshow group on Roblox.
@@ -22,6 +22,7 @@ The Great Escape! `<https://www.roblox.com/games/2940767085/The-Great-Escape>`_
    :maxdepth: 2
    :caption: Contents:
 
+   tge/index
 
 
 Indices and tables
