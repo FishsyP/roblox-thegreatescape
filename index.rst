@@ -6,8 +6,8 @@
 The Great Escape Documentation
 ==============================
 
-This is the internal documentation for the gameshow places developed by
-the Ultimate Gameshow group on Roblox.
+This is the documentation for the gameshow places developed by the Ultimate
+Gameshow group on Roblox.
 
 **Group**
 

@@ -60,10 +60,6 @@ html_context = {
         ],
     }
 
-html_css_files = [
-    'css/remove.css',
-]
-
 rst_prolog = """
 .. |notYetImplemented| replace::
     This feature has yet to be implemented.
