@@ -105,7 +105,7 @@ The colour of the button determine the state of a beam.
 Speed
 ^^^^^
 
-The second to fourth columns buttons (0.5, 1 and 1.5) controls the speed of
+The second to fourth columns buttons (0.5, 1 and 1.5) control the speed of
 the beam when it is moving.
 Clicking on the button will change the speed for the beam on the same row
 as it.
@@ -121,7 +121,7 @@ at the time of writing.
 The table below shows the details for the theoretical speed and time.
 
 +--------------------+--------------------+-------------------------------------------+
-| Nominal speed      | Speed              | Time required                             |
+| Nominal speed      | Speed              | Time taken                                |
 | (Shown on button)  | (studs per second) +--------------------+----------------------+
 |                    |                    | 1 stud             | Whole beam           |
 |                    |                    |                    | (15 studs)           |
